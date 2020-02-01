@@ -166,6 +166,7 @@ The below scripts act as shortcuts to our webpack cli instructions.
 
 You can try structuring your code as follows to follow standards
 
+```
 |_ dist
 |_ src
    |_ index.js
@@ -174,6 +175,7 @@ You can try structuring your code as follows to follow standards
 |_ index.html
 |_ package.json
 |_ webpack.config.js
+```
   
 ## Linking scripts  and links in index.html
 You should link your index.html file to the files stored in the dist folder.
@@ -181,9 +183,11 @@ You should link your index.html file to the files stored in the dist folder.
 ##### Note: Do not modify files stored in the dist folder
  Add this two links to your index.html file to reference your css and javascript files
 
+```
 <link rel="stylesheet" type="text/css" href="dist/index.css" />
 
 <script type="text/javascript" src="dist/index.js"></script>
+```
 
 * You can now run your project after these settings by typing
 
