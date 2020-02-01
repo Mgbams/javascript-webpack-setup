@@ -8,8 +8,8 @@ using webpack and Babel
 * Vs Code
 
 Download the above applications from the sites below
-[Node JS](https://nodejs.org/en/download/)
-[Vs Code](https://code.visualstudio.com/Download)
+* [Node JS](https://nodejs.org/en/download/)
+* [Vs Code](https://code.visualstudio.com/Download)
 
 Install them after downloading
 
